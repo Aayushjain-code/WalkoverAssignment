@@ -16,15 +16,7 @@ html{
      display: flex;
      align-items: center;
  }
- #logo{
-    margin: 10px 34px;
-}
- #logo img{
-    height: 106px;
-    width: 82px;
-    border-radius: 23px;
-    margin: 8px 11px;
- }
+
  #navbar{
      position: absolute;
      width: 1350px;
