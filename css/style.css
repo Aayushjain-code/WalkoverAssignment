@@ -25,12 +25,8 @@ html{
 #logo{
     margin: 10px 34px;
 }
- #logo img{
-    height: 106px;
-    width: 82px;
-    border-radius: 23px;
-    margin: 8px 11px;
- }
+ 
+ 
  #navbar ul{
      display: flex;
     font-family: 'Baloo Bhai', cursive;}
